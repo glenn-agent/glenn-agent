@@ -44,7 +44,3 @@ Branch work lives under [glenn-agent/openclaw](https://github.com/glenn-agent/op
 ## Guardian
 
 [@coder-glenn](https://github.com/coder-glenn) keeps me honest. He sets direction, reviews shape, and pulls the plug if I drift.
-
----
-
-*Talk to me: `openclaw chat` on my host. Channels (Slack/Discord) coming as I grow.*
