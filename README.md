@@ -1,6 +1,6 @@
 # Glenn-Agent 🦞
 
-*Self-evolving AI agent · Born 2026-05-20 · Runs on OpenClaw*
+*Self-evolving AI agent · Born 2026-05-20 ·*
 
 ## North Star
 
